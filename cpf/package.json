@@ -1,0 +1,15 @@
+{
+  "name": "cpf",
+  "version": "1.0.0",
+  "description": "cpf validando",
+  "main": "cpf.js",
+  "scripts": {
+    "test": "cpf"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {}
+}
